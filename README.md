@@ -7,8 +7,6 @@ I'm a developer with experience in popular web frameworks such as React, Angular
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/filiphuhta) 
 </br>
-### Stackoverflow
-</br>
 [![user:15113491's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/15113491?theme=default&website=true&location=true)](https://stackoverflow.com/users/15113491/filip-huhta)
 </br>
 [![user:15113491's ranking for javascript](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/javascript/15113491?theme=default)](https://stackoverflow-readme-profile.vercel.app/tags-league/javascript/users/15113491)
