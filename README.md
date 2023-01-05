@@ -5,7 +5,11 @@ I'm a developer with experience in popular web frameworks such as React, Angular
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filip-huhta-77b1a01a5) 
 </br>
+</br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/filiphuhta) 
+</br>
+</br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15113491)
 </br>
 [![user:15113491's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/15113491?theme=default&website=true&location=true)](https://stackoverflow.com/users/15113491/filip-huhta)
 </br>
