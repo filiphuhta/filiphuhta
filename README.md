@@ -1,7 +1,7 @@
 # About Me:
 Hi! 👋
 
-My name is Filip Huhta, I'm a Full Stack Developer! 👨‍💻
+My name is Filip Huhta, I'm a Developer! 👨‍💻
 
 ## 🌐 Socials
 
