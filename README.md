@@ -9,9 +9,6 @@ My name is Filip Huhta, I'm a Developer! 👨‍💻
 </br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15113491)
 </br>
-[![user:15113491's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/15113491?theme=default&website=true&location=true)](https://stackoverflow.com/users/15113491/filip-huhta)
-</br>
-[![user:15113491's ranking for javascript](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/javascript/15113491?theme=default)](https://stackoverflow-readme-profile.vercel.app/tags-league/javascript/users/15113491)
 
 ## 💻 Tech Stack
 I'm not a expert on everything but I'm familliar with these and maybe some more that I have missed 👀
